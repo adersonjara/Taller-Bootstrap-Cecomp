@@ -1,0 +1,57 @@
+body {
+	font-family: 'Lora', serif;
+	letter-spacing: 2px;
+	background-color: #343a40;
+}
+/* Navbar */
+.navbar{
+	min-height: 70px;
+	box-shadow: 0 0 0px 2px #e5cf37;
+}
+.navbar-light .navbar-brand {
+	color: #f3db37;
+	font-size: 28px;
+	font-family: 'Spicy Rice', cursive;
+}
+h2,h3{
+	font-family: 'Spicy Rice', cursive;
+}
+.navbar-brand:hover {
+	color: #f3db37;
+}
+.bg-app{
+	background-color: #343a40;
+}
+.nav-link{
+	color: #fff !important;
+	font-size: 12px;
+}
+
+/* Carrusel*/
+section {
+	padding: 70px 0;
+}
+
+.carrusel-app {
+	padding-bottom: 0;
+}
+
+/* Productos */
+.productos{
+	padding: 0;
+}
+
+.productos h2{
+	color: #efd736;
+}
+
+/* Contacto */
+.contacto {
+	background-color: #343a40;
+}
+
+/* Footer */
+footer{
+	padding: 20px 0;
+	text-align: center
+}
